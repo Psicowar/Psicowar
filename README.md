@@ -18,7 +18,7 @@
     
  ### Connect with me:
  <div>
-   [Linkedin](https://www.linkedin.com/in/dayan-álvarez-martínez-a96640263/)
+  - [Linkedin](https://www.linkedin.com/in/dayan-álvarez-martínez-a96640263/)
 </div>
 
 
