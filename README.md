@@ -19,12 +19,8 @@
  ### Connect with me:
 
 <a href="https://www.linkedin.com/in/dayan-álvarez-martínez-a96640263/">
-    <img src="https://www.pngwing.com/es/free-png-nwlqy" width="30">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" width="30">
 </a>
-
-
-
-
 
 
 
