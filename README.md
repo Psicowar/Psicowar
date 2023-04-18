@@ -17,9 +17,9 @@
 👀 How to reach me: [Psicowar](vbdam91@gmail.com)
     
  ### Connect with me:
- <div>
+
   - [Linkedin](https://www.linkedin.com/in/dayan-álvarez-martínez-a96640263/)
-</div>
+
 
 
 
