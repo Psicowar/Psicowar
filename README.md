@@ -5,7 +5,7 @@
    <h3> If you are not willing to risk the usual, you will have to settle for the ordinary</h3>
    <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="200">
 </div>
-<hr>
+
 <ul>
   <li>
     🔭 I’m currently working on streaming music app
