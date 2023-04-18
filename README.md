@@ -1,6 +1,6 @@
 ### Hi there 👋 Im Dayan Álvarez!
 <div align="center">
-   <iframe src="https://giphy.com/embed/vhVqGkxDYxAaRbOWVp" width="480" height="334" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a                              href="https://giphy.com/gifs/BoschRexrothGlobal-boschrexroth-ctrlx-ctrlxautomation-vhVqGkxDYxAaRbOWVp">via GIPHY</a></p>
+   <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="200">
 </div>
 <hr>
 <ul>
