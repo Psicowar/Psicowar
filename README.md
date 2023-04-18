@@ -1,8 +1,9 @@
 
 <div align="center">
-   <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="200">
+   
    <h1 align="center">Hi there 👋 Im Dayan Álvarez!</h1>
    <h3 align="center"> If you are not willing to risk the usual, you will have to settle for the ordinary</h3>
+   <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="200">
 </div>
 <hr>
 <ul>
