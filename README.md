@@ -19,8 +19,8 @@
  ### Connect with me:
  
 <div align="center">
-    <img src="https://iconos8.es/icon/98960/linkedin" widh="30">
-    : [Linkeding](https://www.linkedin.com/in/dayan-%C3%A1lvarez-mart%C3%ADnez-a96640263/)
+    <img src="https://iconos8.es/icon/98960/linkedin" widht="30">
+    <span>[Linkedin](https://www.linkedin.com/in/dayan-%C3%A1lvarez-mart%C3%ADnez-a96640263/)</span>
 </div>
 
 
