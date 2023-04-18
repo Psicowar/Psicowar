@@ -20,7 +20,7 @@
  
 <div align="center">
     <img src="https://iconos8.es/icon/98960/linkedin" width="30">
-    <span>[Linkedin](https://www.linkedin.com/in/dayan-%C3%A1lvarez-mart%C3%ADnez-a96640263/)</span>
+    [Linkedin](https://www.linkedin.com/in/dayan-álvarez-martínez-a96640263)
 </div>
 
 
