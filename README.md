@@ -40,6 +40,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" alt="Figma logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" alt="Git logo">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" width="50" alt="ESLint log">
 </div>
 
 
