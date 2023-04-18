@@ -24,8 +24,8 @@
 
 ### Lenguages and tools:
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML5 logo">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" alt="CSS3 logo">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" alt="HTML5 logo">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="CSS3 logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="Javascript logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" alt="React logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" alt="Tailwindcss logo">
