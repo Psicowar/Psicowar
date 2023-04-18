@@ -18,7 +18,6 @@
     
  ### Connect with me:
  <div>
-   - <img src="https://iconos8.es/icon/98960/linkedin" width="30">
    [Linkedin](https://www.linkedin.com/in/dayan-álvarez-martínez-a96640263/)
 </div>
 
