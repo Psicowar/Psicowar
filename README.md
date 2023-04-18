@@ -17,9 +17,11 @@
 👀 How to reach me: [Psicowar](vbdam91@gmail.com)
     
  ### Connect with me:
- 
-- <img src="https://iconos8.es/icon/98960/linkedin" width="30">
-[Linkedin](https://www.linkedin.com/in/dayan-%C3%A1lvarez-mart%C3%ADnez-a96640263/)
+ <div>
+   <img src="https://iconos8.es/icon/98960/linkedin" width="30">
+   [Linkedin](https://www.linkedin.com/in/dayan-%C3%A1lvarez-mart%C3%ADnez-a96640263/)
+</div>
+
 
 
 
