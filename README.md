@@ -46,7 +46,7 @@
 ### Stats: 
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=Psicowar&theme=github-dark-blue&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psicowar&show_icons=true&theme=github_dark)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Psicowar&show_icons=true&theme=github_dark&hide_border=true)
   
 
 
