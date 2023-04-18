@@ -34,7 +34,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" alt="MongoDB logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" alt="MySQL logo">
-   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50" alt="Express logo">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" alt="Express logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" alt="NodeJS logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50" alt="VS Code logo">
    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50" alt="NPM logo">
