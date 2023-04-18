@@ -10,7 +10,7 @@
 
 🔭 Currently working on: Streaming music app 
 
-🌱 Currently learning: **React.js, MongoDB, 
+🌱 Currently learning: **React.js, MongoDB, Mongoosejs**
 
 👯 Looking to collaborate on my first challenge in a tech company
 
