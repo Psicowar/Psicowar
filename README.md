@@ -43,5 +43,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" width="50" alt="ESLint log">
 </div>
 
-
+### Stats: 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Psicowar)](https://git.io/streak-stats)
 
