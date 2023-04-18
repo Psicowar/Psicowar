@@ -14,7 +14,7 @@
 
 👯 Looking to collaborate on my first challenge in a tech company
 
-👀 How to reach me: [Psicowar](vbdam91@gmail.com)
+👀 How to reach me: <vbdam91@gmail.com>
     
  ### Connect with me:
 
