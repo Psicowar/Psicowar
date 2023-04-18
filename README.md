@@ -1,4 +1,4 @@
-### Hi there 👋 Im Dayan Álvarez!
+<h1 align="center">Hi there 👋 Im Dayan Álvarez!</h1>
 <div align="center">
    <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="200">
 </div>
